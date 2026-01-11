@@ -34,8 +34,6 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thigas017&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thigas017&layout=compact&theme=dark" />
-
 ---
 
 ## 🐍 Contribution Snake
