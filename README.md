@@ -32,58 +32,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thigas017&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thigas017&show_icons=true&theme=dark" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Thigas017&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thigas017&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thigas017&layout=compact&theme=dark" />
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thigas017&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thigas017&theme=tokyo-night)
-
----
-
-## 🎮 Mini Game
-
-<p align="center">
-  <a href="https://chromedino.com">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/dino.gif" width="400"/>
-  </a>
-</p>
-
-🦖 Click to play the Chrome Dino Game!
+![Snake animation](https://raw.githubusercontent.com/Thigas017/Thigas017/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Thigas017&style=for-the-badge&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=Thigas017&style=for-the-badge&color=blueviolet" />
 
 ---
 
 ## ❤️ Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/Thigas017?label=Follow&style=for-the-badge)](https://github.com/Thigas017)
+<a href="https://github.com/Thigas017">
+  <img src="https://img.shields.io/github/followers/Thigas017?label=Follow&style=for-the-badge" />
+</a>
