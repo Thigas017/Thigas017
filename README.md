@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tiago (Thigas017)</h1>
+<h1 align="center">👋 Hi, I'm Tiago</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Fullstack+Engineer;Always+Learning+New+Things;Welcome+to+my+GitHub!" />
