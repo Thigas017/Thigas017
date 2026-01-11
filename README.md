@@ -38,7 +38,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Thigas017/Thigas017/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/Thigas017/Thigas017/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 ---
 
